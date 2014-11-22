@@ -1,7 +1,7 @@
 var container = document.getElementById('map-canvas');
 var options = {
-	center: new daum.maps.LatLng(37.528957, 127.123277),
-	level: 3,
+	center: new daum.maps.LatLng(35.19648777077902, 129.13069633798887),
+	level: 5,
 	mapTypeId: 3,
 	draggable: true,
 	scrollwheel: true,
