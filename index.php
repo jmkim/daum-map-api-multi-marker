@@ -4,7 +4,7 @@
 		<meta name="viewport" content="width=device-width">
 		<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 		<link rel="stylesheet" href="css/bootstrap.css">
-		<title>MOM'S TOUCH - Daum 지도</title>
+		<title>맘스터치 위치 찾기</title>
 		<style type="text/css">
 			html, body, #map-canvas { height: 90%; margin: 0; padding: 0;}
 			p {
@@ -51,7 +51,10 @@
 			</p>
 		</div>
 		<div class="footer">
-			<p>Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://github.com/kdzlvaids/momstouch" rel="dct:source">http://github.com/kdzlvaids/momstouch</a>.<br><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">MOM'S TOUCH MAP</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:kdzlvaids@gmail.com" property="cc:attributionName" rel="cc:attributionURL">Jongmin Kim</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>
+			<p>
+				Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://github.com/kdzlvaids/momstouch" rel="dct:source">http://github.com/kdzlvaids/momstouch</a>.<br>
+				<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">맘스터치 위치 찾기</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:kdzlvaids@gmail.com" property="cc:attributionName" rel="cc:attributionURL">Jongmin Kim</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+			</p>
 			<p><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png"></a></p>
 		</div>
 		<script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
