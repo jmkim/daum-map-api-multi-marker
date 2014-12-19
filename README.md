@@ -1,5 +1,4 @@
 ## Multi-marker example of Daum Maps
-=========
 `index.php`의
 ```html
 <script type="text/javascript" src="//apis.daum.net/maps/maps3.js?apikey=INPUT_YOUR_APIKEY"></script>
